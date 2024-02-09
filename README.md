@@ -20,11 +20,11 @@
 
 <h2>Repositories</h2>
 
-  - <b>Hangman Game</b>
+- <b>Hangman Game</b>
   - [In Python](https://github.com/Bernard-Hackwell98/hangmangame)
-  - <b>Number Guessing Game</b>
+- <b>Number Guessing Game</b>
   - [In C++](https://github.com/Bernard-Hackwell98/Number-guessing-game-in-C-/tree/main)
-  - <b>Automate Instagram</b>
+- <b>Automate Instagram</b>
   - [In Python](https://github.com/Bernard-Hackwell98/Automate-Instagram-Opening)
 
 
