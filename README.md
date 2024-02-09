@@ -4,25 +4,34 @@
 
 - 
   -<b>Cisco Packet Tracer</b>
-  - [Packet Tracer](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Packet Tracer](https://thecyberblog97.blogspot.com/2024/01/project-vulnerabiltiy-management-with.html)
 - <b>Nessus Essentials Vulnerability Scanning</b>
-  - [Vulnerability Management](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Vulnerability Management](https://thecyberblog97.blogspot.com/2023/09/nessus-essential-vulnerability-testing.html)
 - <b>Python APIs</b>
 <b>REST API IN PYTHON</b>
-  - [Simple rest Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Simple rest Python](https://github.com/Bernard-Hackwell98/RestAPI)
 - <b>Basic Keylogger in Python</b>
-  - [Keylogger](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Keylogger]()
+- <b>Threat Hunting In Wireshark</b>
+  - [Wireshark](https://thecyberblog97.blogspot.com/2023/12/project-threat-hunting-with-wireshark.html)
+- <b>TCP client and server</b>
+  - [Python](https://github.com/Bernard-Hackwell98/TCP-client-and-server)
+
 
 <h2>Repositories</h2>
 
-  - <b>TCP client and Server connection</b>
-  - [In Python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - <b>Hangman Game</b>
+  - [In Python](https://github.com/Bernard-Hackwell98/hangmangame)
+  - <b>Number Guessing Game</b>
+  - [In C++](https://github.com/Bernard-Hackwell98/Number-guessing-game-in-C-/tree/main)
+  - <b>Automate Instagram</b>
+  - [In Python](https://github.com/Bernard-Hackwell98/Automate-Instagram-Opening)
 
 
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
+[<img align="left" alt="Bernard Hackwell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
