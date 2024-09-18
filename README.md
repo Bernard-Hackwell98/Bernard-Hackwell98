@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hammad! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/muhammad-hammad-136341254/">LinkedIn</a>, <a href="https://thecyberblog97.blogspot.com/">Website</a></h1>
+<h1>Hi, I'm Hammad! <br/><a href="https://github.com/Bernard-Hackwell98">Cybersecurity Enthusiast, Cloud Gen AI Application Engineer</a>, <a href="https://www.linkedin.com/in/muhammad-hammad-136341254/">LinkedIn</a>, <a href="https://thecyberblog97.blogspot.com/">Website</a></h1>
 
 <h2>Cybersecurity Projects:</h2>
 
